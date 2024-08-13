@@ -1,1 +1,1 @@
-# polyanalitika-test
+# Polyanalitika demo by Ekaterina Bondareva
